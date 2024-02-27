@@ -1,6 +1,6 @@
 <h2>Hi there, I’m Ai Iwashita 👋</h2>
-I am a recent graduate from University of Auckland with a degree in Statistics.<br>
-I love working with compex data and I am currently looking for a Data analysis job to gain more experience.
+I am a recent graduate from the University of Auckland with a degree in Statistics.<br>
+I am passionate about working with complex data and gaining valuable insights! <br>
 
 <br>
 
